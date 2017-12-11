@@ -1,0 +1,24 @@
+ayalap, marina92
+===============================================================================
+Ayala Prusak, ID 304912082, ayala.prusalk@mail.huji.ac.il
+Marina Furen, ID 319216438, marina.furen@mail.huji.ac.il
+===============================================================================
+
+                           Project 10 - Compiler I: Syntax Analysis
+                           ----------------------- 
+  
+
+Submitted Files
+---------------
+README- This file.
+jackAnalyzer.py- it's a syntax analyzer that parses Jack programs according to 
+the Jack grammar, producing an XML file that captures the program's structure.
+
+
+Remarks
+-------
+We builded the jackAnalyzer in 2 stages: the first was the tokenizer-it's a 
+program that breaks a given textual input into a list of separate tokens. Then
+the second stage was to build the parser-that goes over the tokenized text and 
+emits output indicating that it "understood" the text's grammatical structure.
+

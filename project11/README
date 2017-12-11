@@ -1,0 +1,26 @@
+ayalap, marina92
+===============================================================================
+Ayala Prusak, ID 304912082, ayala.prusalk@mail.huji.ac.il
+Marina Furen, ID 319216438, marina.furen@mail.huji.ac.il
+===============================================================================
+
+                           Project 11 - Compiler II: Code Generation
+                           ----------------------- 
+  
+
+Submitted Files
+---------------
+README- This file.
+jackCompiler.py- parses Jack programs according to 
+the Jack grammar, and compiles it to a VM commend file.
+
+
+Remarks
+-------
+the jackCompiler.py file containd different classes implemented as described in
+th exercise:
+
+class JackTokenizer
+class SymbolTable
+class VMWriter
+class CompilationEngine
